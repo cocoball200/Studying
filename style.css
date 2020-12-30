@@ -7,6 +7,8 @@ body {
   position: fixed;
   z-index: 1;
   width: 100%;
+  border-bottom: 5px solid darkgray;
+  
 }
 #Nav_name{
   display: flex;
